@@ -1,0 +1,3 @@
+# investor-scout 数据处理依赖
+# 仅用于 CC 团队运行数据蒸馏脚本，founder 端无需安装
+pandas>=1.5.0
